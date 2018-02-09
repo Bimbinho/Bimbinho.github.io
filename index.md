@@ -13,7 +13,7 @@ Aluno de Jogos aprendendo a fazer um portfólio com prof. maravilhoso Marcelo.
 
 [NOME](Link do jogo)
 
-[ ![] ](https://www.rockstargames.com/V/br)
+[![](gta-v-logo-notogames.png) ](https://www.rockstargames.com/V/br)
 
 ## Artes
 ![NOME](Link da imagem)
