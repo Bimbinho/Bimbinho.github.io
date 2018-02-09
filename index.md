@@ -4,26 +4,26 @@ layout: default
 
 Criando **minha** _página_ ~~principal~~.
 
-# Quem sou eu?
+# Quem sou eu
 Aluno de Jogos aprendendo a fazer um portfólio com prof. maravilhoso Marcelo.
 
 # Portfólio
 
 ## Games
 
-[JOGO1] 
+[JOGO1]()
 
-[JOGO2] 
+[JOGO2]()
 
-[TEXTO QUE VAI APARECER]
+[NOME](Link do jogo)
 
 ## Artes
-* Prof. Artes
-* Prof. História
-* Prof. Jogos
-1. Marcelo
-2. Miguel
-3. Durval
+
+![Dead Pool](https://lh3.googleusercontent.com/agiMAi9ddTrSU8xpu0bcIvvIS-JboKSoJPFXo3Vyzc96sX9bfax3DNwzVxcJxaS-KQ=h900)
+
+![Bart](https://i.pinimg.com/originals/c8/bf/32/c8bf324fa57715013adb09e2999657d4.jpg)
+
+![NOME](Link da imagem)
 
 ## Projetos
 
