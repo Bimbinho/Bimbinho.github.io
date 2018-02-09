@@ -13,8 +13,6 @@ Aluno de Jogos aprendendo a fazer um portfólio com prof. maravilhoso Marcelo.
 
 [JOGO1]()
 
-[JOGO2]()
-
 [NOME](Link do jogo)
 
 ## Artes
