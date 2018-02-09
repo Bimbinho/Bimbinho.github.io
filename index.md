@@ -11,19 +11,15 @@ Aluno de Jogos aprendendo a fazer um portfólio com prof. maravilhoso Marcelo.
 
 ## Games
 
-[JOGO1]()
-
 [NOME](Link do jogo)
 
-## Artes
+[ ![] ](https://www.rockstargames.com/V/br)
 
+## Artes
+![NOME](Link da imagem)
 ![Dead Pool](https://lh3.googleusercontent.com/agiMAi9ddTrSU8xpu0bcIvvIS-JboKSoJPFXo3Vyzc96sX9bfax3DNwzVxcJxaS-KQ=h900)
 
 ![Bart](https://i.pinimg.com/originals/c8/bf/32/c8bf324fa57715013adb09e2999657d4.jpg)
-
-![NOME](Link da imagem)
-
-![](unnamed.jpg)
 
 ## Projetos
 
