@@ -14,7 +14,9 @@ Elber Duarte, aluno de Programação de Jogos Digitais[...]
 ## Games
 
 [NOME](Link do jogo)
+
 [Super Chef](https://alvaromd2016.github.io/Super%20Chef/)
+
 [![](gta-v-logo-notogames.png) ](https://www.rockstargames.com/V/br)
 
 ## Artes
