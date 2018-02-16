@@ -5,7 +5,8 @@ layout: default
 Criando **minha** _página_ ~~principal~~.
 
 # Quem sou eu
-[![](28053628_1610312609050904_1365302781_n.jpg)
+![](28053628_1610312609050904_1365302781_n.jpg)
+
 Elber Duarte, aluno de Programação de Jogos Digitais[...]
 
 # Portfólio
