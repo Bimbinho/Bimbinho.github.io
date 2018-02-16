@@ -5,8 +5,8 @@ layout: default
 Criando **minha** _página_ ~~principal~~.
 
 # Quem sou eu
-
-Aluno de Jogos aprendendo a fazer um portfólio com prof. maravilhoso Marcelo.
+[![](
+Elber Duarte, aluno de Programação de Jogos Digitais[...]
 
 # Portfólio
 
