@@ -7,17 +7,15 @@ Criando **minha** _página_ ~~principal~~.
 # Quem sou eu
 ![](28053628_1610312609050904_1365302781_n.jpg)
 
-Elber Duarte, aluno de Programação de Jogos Digitais[...]
+Elber Duarte, aluno de Programação de Jogos Digitais
 
 # Portfólio
 
 ## Games
 
-[NOME](Link do jogo)
+[![](menu-sheet0.png) ](https://alvaromd2016.github.io/Super%20Chef/)
 
-[![](https://alvaromd2016.github.io/Super%20Chef/)
-
-[![](gta-v-logo-notogames.png) ](https://www.rockstargames.com/V/br)
+[![](Imagem do Jogo) ](Link do Jogo)
 
 ## Artes
 
