@@ -22,12 +22,12 @@ Me chamo Elber Duarte, aluno de Programação de Jogos Digitais do Instituto Fed
 
 2. PUM
 
-[![](pum.png)](https://elielton90.github.io/PUM/)
+[![](novopum.png)](https://elielton90.github.io/PUM/)
 * * * 
 
 3. Profilaxia
 
-[![](profilaxia.png)](https://elielton90.github.io/profilaxia/)
+[![](novoprofilaxia.png)](https://elielton90.github.io/profilaxia/)
 
 ## Artes
 
