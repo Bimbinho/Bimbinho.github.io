@@ -1,3 +1,4 @@
+baterianovo.png 
 ---
 layout: default
 ---
@@ -25,8 +26,17 @@ Me chamo Elber Duarte, aluno de Programação de Jogos Digitais do Instituto Fed
 [![](novoprofilaxia.png)](https://elielton90.github.io/profilaxia/)
 
 ## Artes
+1.
 
-![NOME](Link da imagem)
+![](baterianovo.png)
+* * *
+2.
+
+![](botoesnovo.png)
+* * *
+3.
+
+![](novokomo.png)
 
 ## Influence Map
 
