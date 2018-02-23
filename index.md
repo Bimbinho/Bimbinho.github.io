@@ -1,3 +1,4 @@
+
 ##---
 layout: default
 ---
@@ -19,6 +20,10 @@ Me chamo Elber Duarte, aluno de Programação de Jogos Digitais do Instituto Fed
 ## Artes
 
 ![NOME](Link da imagem)
+
+## Influence Map
+
+![](elber.png) 
 
 
 ## Contato
