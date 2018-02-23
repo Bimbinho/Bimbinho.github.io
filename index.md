@@ -1,4 +1,3 @@
-baterianovo.png 
 ---
 layout: default
 ---
