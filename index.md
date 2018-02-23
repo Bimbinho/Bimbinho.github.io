@@ -5,14 +5,10 @@ layout: default
 Criando **minha** _página_ ~~principal~~.
 
 # Quem sou eu
-                                          ![](28053628_1610312609050904_1365302781_n.jpg)
+![](28053628_1610312609050904_1365302781_n.jpg)
 
-                                                            Elber Duarte
-                                                               18 anos
-                                                           Ceará-Mirim/RN
+Me chamo Elber Duarte, aluno de Programação de Jogos Digitais do Instituto Federal de Ciência e Tecnologia Do Rio Grande do Norte, campus Ceará-Mirim mais conhecido como "Duarte". Residente da cidade de Ceará-Mirim, 18 anos, futuro médico.
                                                            
-
-# Portfólio
 
 ## Games
 
@@ -26,15 +22,20 @@ Criando **minha** _página_ ~~principal~~.
 
 ## Projetos
 
+
+
+
 ## Animações
 
-* * *
 
-** negrito  
-_  itálico  
-~~ riscado  
-3º linha horizontal (barra)
-*s asteriscos criam lista não ordenada
-1s números criam lista orientada
 
-* * *
+
+
+
+
+
+
+
+
+
+
