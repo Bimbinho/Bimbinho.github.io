@@ -1,4 +1,5 @@
 
+
 whatsapp_icon-icons.com_72054.png 
 ##---
 layout: default
@@ -14,9 +15,19 @@ Me chamo Elber Duarte, aluno de Programação de Jogos Digitais do Instituto Fed
 
 ## Jogos
 
-[![](menu-sheet0.png) ](https://alvaromd2016.github.io/Super%20Chef/)
+1. Super Chef
 
-[![](Imagem do Jogo) ](Link do Jogo)
+[![](menu-sheet0.png) ](https://alvaromd2016.github.io/Super%20Chef/)
+* * *
+
+2. PUM
+
+[![]( )](https://elielton90.github.io/PUM/)
+* * * 
+
+3. Profilaxia
+
+[![]( )](https://elielton90.github.io/profilaxia/)
 
 ## Artes
 
@@ -26,11 +37,12 @@ Me chamo Elber Duarte, aluno de Programação de Jogos Digitais do Instituto Fed
 
 ![](elber.png) 
 
-
 ## Contato
 
 ![](whatsapp_icon-icons.com_72054.png) - (84) 99214-9121
 
-![]( )( )
+![](Gmail_icon-icons.com_66934 (1).png) - elberdouglas2015@gmail.com
+
+![](fb_icon-icons.com_72041.png) - elber.douglas.5
 
 
