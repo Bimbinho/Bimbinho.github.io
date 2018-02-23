@@ -18,7 +18,7 @@ Me chamo Elber Duarte, aluno de Programação de Jogos Digitais do Instituto Fed
 
 ## Artes
 
-![NOME](Link da imagem)
+![NOME](Personagem-20180219-171945.piskel)
 
 ## Projetos
 
