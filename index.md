@@ -17,7 +17,7 @@ Me chamo Elber Duarte, aluno de Programação de Jogos Digitais do Instituto Fed
 
 1. Super Chef
 
-[![](rgfdgdfgdf.png) ](https://alvaromd2016.github.io/Super%20Chef/)
+[![](novomenu.png)](https://alvaromd2016.github.io/Super%20Chef/)
 * * *
 
 2. PUM
