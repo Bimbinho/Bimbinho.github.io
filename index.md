@@ -27,16 +27,9 @@ Me chamo Elber Duarte, aluno de Programação de Jogos Digitais do Instituto Fed
 
 ## Animações
 
-
-
-
-
 ## Contato
 
-![Facebook](https://www.facebook.com/elber.douglas.5)
-
-
-
+![Whatsapp] - (84) 99214-9121
 
 
 
