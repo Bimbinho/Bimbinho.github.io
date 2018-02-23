@@ -29,8 +29,8 @@ Me chamo Elber Duarte, aluno de Programação de Jogos Digitais do Instituto Fed
 
 ## Contato
 
-[![](whatsapp_icon-icons.com_72054.png)] - (84) 99214-9121
+![](whatsapp_icon-icons.com_72054.png) - (84) 99214-9121
 
-[![]( )]( )
+![]( )( )
 
 
