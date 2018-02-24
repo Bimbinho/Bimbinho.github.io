@@ -25,17 +25,38 @@ Me chamo Elber Duarte, aluno de Programação de Jogos Digitais do Instituto Fed
 [![](novoprofilaxia.png)](https://elielton90.github.io/profilaxia/)
 
 ## Artes
-1.                                          4.                                    7.
+1.
 
-![](baterianovo.png)                        ![](novomenu.png)                     ![](novopum.png)
-* * *                                       * * *                                 * * *
-2.                                          5.                                    8.
+![](baterianovo.png)                                             
+* * *
+2.
 
-![](botoesnovo.png)                         ![](novoprati.png)                    ![](pranchetanovo.png)
-* * *                                       * * *
-3.                                          6.
+![](botoesnovo.png)                                             
+* * *
+3.
 
-![](novokomo.png)                           ![](novoprofilaxia.png)
+![](novokomo.png)
+* * *
+4.
+
+![](novoprofilaxia.png)
+* * *
+5.
+
+![](novomenu.png)
+* * *
+6.
+
+![](novopum.png)
+* * *
+7.
+
+![](novoprati.png)
+* * *
+8.
+
+![](pranchetanovo.png)
+* * *
 
 ## Influence Map
 
